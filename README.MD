@@ -25,12 +25,11 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<https://github.com/jeessicafh/Ebook-/blob/main/Ebook%20-%20Do%20zero%20ao%20topo_JH.pdf> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +39,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um título de um ebook sobre o tema sobre montar seu próprio computador como um passo a passo, para pessoas que são da área da tecnologia e as que não são.
+O título tem que ser curto e épico. Me liste 5 variações de títulos                                                 |
+| conteúdo |Crie um texto falando sobre como montar um computador, quais peças escolher.
+{Regras}
+> O Texto tem que ser simples para qualquer pessoa entender
+> O texto tem que ser enxuto para não ser uma leitura cansativa 
+> Coloque resumidamente sobre as gerações de processadores, quais são mais rápidos, melhor desempenho
+> Crie 6 capítulos com título e subtítulo
 
 
-Midjourney：
+ChatGPT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem com base no texto do ebook que você escreveu. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
